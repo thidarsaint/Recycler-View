@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Furniture</string>
+    <string name="txt_discover">Discover</string>
+    <string name="txt_chair">Chair</string>
+    <string name="txt_trending">Trending</string>
+    <string name="txt_show_all">Show all</string>
+    <string name="txt_best_selling">Best Selling</string>
+</resources>
